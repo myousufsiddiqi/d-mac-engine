@@ -18,7 +18,7 @@ This system operates on a hybrid methodology: utilizing zero-shot AI synthesis t
 
 *(Replace the placeholder image below with your actual LangGraph DAG diagram or architecture flowchart)*
 
-![D-MAC Architecture Flowchart](docs/architecture-diagram.png)
+![D-MAC Architecture Flowchart](System%20Architecture.jpg)
 *The Directed Acyclic Graph (DAG) architecture routing payloads between specialized autonomous agents, featuring an in-memory esbuild validation gate and ChromaDB episodic memory repair loops.*
 
 ---
